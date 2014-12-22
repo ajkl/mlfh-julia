@@ -1,4 +1,4 @@
-mlfh-julia
+Julia code for Machine Learning for Hackers book
 ==========
 ###### Julia code for Machine Learning for Hackers book
 
