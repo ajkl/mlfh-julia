@@ -1,4 +1,4 @@
-Julia code for Machine Learning for Hackers book
+MLFH through Julia's Eyes
 ==========
 ###### Julia code for Machine Learning for Hackers book
 
